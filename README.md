@@ -2,7 +2,9 @@
 
 Frontend Developer from Kyrgyzstan
 
-## Tech Stack
+---
+
+# 🚀 Tech Stack
 
 - Angular
 - TypeScript
@@ -13,14 +15,27 @@ Frontend Developer from Kyrgyzstan
 - SQL
 - C#
 
-## About Me
+---
 
-- Building frontend applications
-- Interested in scalable UI architecture
-- Learning advanced Angular patterns
-- Open to freelance projects
+# 📚 Currently Learning
 
-## Contacts
+- Advanced Angular architecture
+- RxJS
+- Frontend optimization
+- Scalable UI patterns
+
+---
+
+# 💼 Goals
+
+- Build strong portfolio projects
+- Improve frontend architecture skills
+- Start freelancing
+- Grow into Middle Frontend Developer
+
+---
+
+# 📫 Contacts
 
 - Telegram: @soulmagicianfsc
 - Email: malbecha1@gmail.com
