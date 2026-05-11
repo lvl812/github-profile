@@ -1,5 +1,9 @@
 # Hi, I'm Askar 👋
 
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge)
+
 Frontend Developer from Kyrgyzstan
 
 ---
@@ -39,3 +43,9 @@ Frontend Developer from Kyrgyzstan
 
 - Telegram: @soulmagicianfsc
 - Email: malbecha1@gmail.com
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lvl812&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvl812&layout=compact&theme=tokyonight)
